@@ -11,7 +11,7 @@
   <title>Authors &middot; 又木的学习空间</title>
   <meta name="title" content="Authors &middot; 又木的学习空间" />
   
-  <meta name="description" content="又木的学习空间" />
+  <meta name="description" content="又木" />
   
   
   
@@ -70,13 +70,13 @@
   
   
   <meta property="og:title" content="Authors" />
-<meta property="og:description" content="又木的学习空间" />
+<meta property="og:description" content="又木" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="//localhost:1313/authors/" />
 
 
   <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Authors"/>
-<meta name="twitter:description" content="又木的学习空间"/>
+<meta name="twitter:description" content="又木"/>
 
   
   
@@ -146,6 +146,18 @@
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3">
     
     
+    
+    <div>
+        <a href="/" class="flex">
+            <span class="sr-only">又木的学习空间</span>
+
+            
+            <img src="/blowfish_logo.png" width="2500" height="2500"
+                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="又木的学习空间" />
+            
+
+        </a>
+    </div>
     
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
@@ -361,6 +373,44 @@
     <main id="main-content" class="grow">
       
 
+
+
+
+
+
+ 
+  
+   
+  
+ 
+
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/image_huaf8dea0ce687364b67d9c3a1fbea7d65_337144_1200x0_resize_q75_box.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
 
  
 
