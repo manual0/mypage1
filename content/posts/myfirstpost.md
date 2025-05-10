@@ -4,8 +4,8 @@ date: 2023-05-09
 draft: false
 summary: "这是我的第一篇博客"
 tags: ["学习"]
-background: "assets/image.jpg"
-featureimage: "assets/profile.jpg"
+background: "image.jpg"
+feature_image: "profile.jpg"
 ---
 
 ## 这是我的第一篇博客

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Blowfish</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Blowfish</description>
+    <title>Posts on 又木的学习空间</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on 又木的学习空间</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>2013244273@qq.com (YouMu)</managingEditor>
-    <webMaster>2013244273@qq.com (YouMu)</webMaster>
-    <copyright>© 2025 YouMu</copyright>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language>
+    <managingEditor>2013244273@qq.com (又木)</managingEditor>
+    <webMaster>2013244273@qq.com (又木)</webMaster>
+    <copyright>© 2025 又木</copyright>
+    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My first post</title>
-      <link>http://localhost:1313/posts/myfirstpost/</link>
+      <title>我的第一篇博客</title>
+      <link>//localhost:1313/posts/myfirstpost/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <author>2013244273@qq.com (YouMu)</author>
-      <guid>http://localhost:1313/posts/myfirstpost/</guid>
-      <description>This is my first post on my site</description>
+      <author>2013244273@qq.com (又木)</author>
+      <guid>//localhost:1313/posts/myfirstpost/</guid>
+      <description>这是我的第一篇博客</description>
       
     </item>
     
