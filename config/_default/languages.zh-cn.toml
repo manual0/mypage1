@@ -15,7 +15,7 @@ title = "又木的学习空间"
   # copyright = "Copy, _right?_ :thinking_face:"
 [params.author]
   name = "又木"
-  image = "assets/profile.jpg"
+  image = "profile.jpg"
   headline = "我是又木"
   bio = "希望可以成为一个不秃头的程序员"
   email = "2013244273@qq.com"
