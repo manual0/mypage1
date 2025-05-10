@@ -3,7 +3,7 @@ name: Deploy to Firebase Hosting
 on:
   push:
     branches:
-      - main  # 如果你的分支不是 main，改成你的分支名
+      - main # 如果你的分支不是 main，改成你的分支名
 
 jobs:
   build_and_deploy:
@@ -20,6 +20,8 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      - name: Install Firebase CLI
+        run: npm install -g firebase-tools
       # 如果你有 build 步骤，取消下一行注释：
       # - run: npm run build
 
