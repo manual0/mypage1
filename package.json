@@ -1,0 +1,22 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manual0/mypage1.git"
+  },
+  "keywords": [
+    "Wo2Ma1314"
+  ],
+  "author": "manual0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manual0/mypage1/issues"
+  },
+  "homepage": "https://github.com/manual0/mypage1#readme"
+}
