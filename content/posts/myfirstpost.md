@@ -5,7 +5,7 @@ draft: false
 summary: "这是我的第一篇博客"
 tags: ["学习"]
 background: "image.jpg"
-feature_image: "profile.jpg"
+image: "profile.jpg"
 ---
 
 ## 这是我的第一篇博客
