@@ -1,8 +1,7 @@
 +++
-title = "算法笔记"
+title = "二叉树算法纲领"
 draft = false
 date = "2025-05-09"
-summary = "这是我的第一篇博客"
 tags = ["学习","算法"]
 +++
 
