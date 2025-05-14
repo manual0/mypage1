@@ -9,8 +9,8 @@ title = "又木的学习空间"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
-  logo = "blowfish_logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "pica.png"
+  secondaryLogo = "blowfish-logo.png"
   description = "又木"
   # copyright = "Copy, _right?_ :thinking_face:"
 [params.author]
