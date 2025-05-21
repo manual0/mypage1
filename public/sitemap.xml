@@ -9,13 +9,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/mypage5/mypage5/</loc>
+    <loc>http://localhost:1313/posts/mypage5/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/mypage2/mypage2/</loc>
+    <loc>http://localhost:1313/posts/mypage2/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -27,13 +27,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/mypage4/mypage4/</loc>
+    <loc>http://localhost:1313/posts/mypage4/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/mypage3/mypage3/</loc>
+    <loc>http://localhost:1313/posts/mypage3/</loc>
     <lastmod>2025-05-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
