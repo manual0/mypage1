@@ -1,6 +1,75 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>学习 on 又木的学习空间</title><link>https://blog-c7234.web.app/tags/%E5%AD%A6%E4%B9%A0/</link><description>Recent content in 学习 on 又木的学习空间</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2013244273@qq.com (又木)</managingEditor><webMaster>2013244273@qq.com (又木)</webMaster><copyright>© 2025 又木</copyright><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://blog-c7234.web.app/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>Linux系统配置安装MySQL</title><link>https://blog-c7234.web.app/posts/mypage6/</link><pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate><author>2013244273@qq.com (又木)</author><guid>https://blog-c7234.web.app/posts/mypage6/</guid><description>MySQL 安装 #
-安装 MySQL 对于基于 Debian 的系统（如 Ubuntu）:</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog-c7234.web.app/posts/mypage6/featured.png"/></item><item><title>波兰式</title><link>https://blog-c7234.web.app/posts/mypage5/</link><pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate><author>2013244273@qq.com (又木)</author><guid>https://blog-c7234.web.app/posts/mypage5/</guid><description>波兰式 #
-中缀转前缀 #
-要将一个中缀表达式转换为前缀表达式，可以通过栈的方式实现。中缀表达式是我们日常书写的算式形式，比如 (A + B) * C，而前缀表达式（也叫波兰表达式）是一种操作符位于操作数前面的表示方法，例如 * + A B C。</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog-c7234.web.app/posts/mypage5/featured.png"/></item><item><title>动态规划</title><link>https://blog-c7234.web.app/posts/mypage2/</link><pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate><author>2013244273@qq.com (又木)</author><guid>https://blog-c7234.web.app/posts/mypage2/</guid><description>首先，虽然动态规划的核心思想就是穷举求最值，但是问题可以千变万化，穷举所有可行解其实并不是一件容易的事，需要你熟练掌握递归思维，只有列出正确的「[[状态转移方程]]」，才能正确地穷举。而且，你需要判断算法问题是否具备「[[最优子结构]]」，是否能够通过子问题的最值得到原问题的最值。另外，动态规划问题存在「重叠子问题」，如果暴力穷举的话效率会很低，所以需要你使用「备忘录」或者「DP table」来优化穷举过程，避免不必要的计算。</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog-c7234.web.app/posts/mypage2/featured.png"/></item><item><title>二叉树算法纲领</title><link>https://blog-c7234.web.app/posts/myfirstpost/</link><pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate><author>2013244273@qq.com (又木)</author><guid>https://blog-c7234.web.app/posts/myfirstpost/</guid><description>二叉树算法纲领 #
-先在开头总结一下，二叉树解题的思维模式分两类：</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog-c7234.web.app/posts/myfirstpost/featured.png"/></item><item><title>回溯算法</title><link>https://blog-c7234.web.app/posts/mypage4/</link><pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate><author>2013244273@qq.com (又木)</author><guid>https://blog-c7234.web.app/posts/mypage4/</guid><description>抽象地说，解决一个回溯问题，实际上就是遍历一棵决策树的过程，树的每个叶子节点存放着一个合法答案。你把整棵树遍历一遍，把叶子节点上的答案都收集起来，就能得到所有的合法答案。</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog-c7234.web.app/posts/mypage4/featured.png"/></item><item><title>图论</title><link>https://blog-c7234.web.app/posts/mypage3/</link><pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate><author>2013244273@qq.com (又木)</author><guid>https://blog-c7234.web.app/posts/mypage3/</guid><description>有向加权图（邻接表实现） #
-我这里给出一个简单的通用实现，后文图论算法教程和习题中可能会用到。其中有一些可以优化的点我写在注释中了。</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog-c7234.web.app/posts/mypage3/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学习 on 又木的学习空间</title>
+    <link>http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0/</link>
+    <description>Recent content in 学习 on 又木的学习空间</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>2013244273@qq.com (又木)</managingEditor>
+    <webMaster>2013244273@qq.com (又木)</webMaster>
+    <copyright>© 2025 又木</copyright>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linux系统配置安装MySQL</title>
+      <link>http://localhost:1313/posts/mypage6/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <author>2013244273@qq.com (又木)</author>
+      <guid>http://localhost:1313/posts/mypage6/</guid>
+      <description>MySQL 安装 #安装 MySQL 对于基于 Debian 的系统（如 Ubuntu）:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mypage6/featured.png" />
+    </item>
+    
+    <item>
+      <title>波兰式</title>
+      <link>http://localhost:1313/posts/mypage5/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <author>2013244273@qq.com (又木)</author>
+      <guid>http://localhost:1313/posts/mypage5/</guid>
+      <description>波兰式 #中缀转前缀 #要将一个中缀表达式转换为前缀表达式，可以通过栈的方式实现。中缀表达式是我们日常书写的算式形式，比如 (A + B) * C，而前缀表达式（也叫波兰表达式）是一种操作符位于操作数前面的表示方法，例如 * + A B C。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mypage5/featured.png" />
+    </item>
+    
+    <item>
+      <title>动态规划</title>
+      <link>http://localhost:1313/posts/mypage2/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <author>2013244273@qq.com (又木)</author>
+      <guid>http://localhost:1313/posts/mypage2/</guid>
+      <description>首先，虽然动态规划的核心思想就是穷举求最值，但是问题可以千变万化，穷举所有可行解其实并不是一件容易的事，需要你熟练掌握递归思维，只有列出正确的「[[状态转移方程]]」，才能正确地穷举。而且，你需要判断算法问题是否具备「[[最优子结构]]」，是否能够通过子问题的最值得到原问题的最值。另外，动态规划问题存在「重叠子问题」，如果暴力穷举的话效率会很低，所以需要你使用「备忘录」或者「DP table」来优化穷举过程，避免不必要的计算。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mypage2/featured.png" />
+    </item>
+    
+    <item>
+      <title>二叉树算法纲领</title>
+      <link>http://localhost:1313/posts/myfirstpost/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <author>2013244273@qq.com (又木)</author>
+      <guid>http://localhost:1313/posts/myfirstpost/</guid>
+      <description>二叉树算法纲领 #先在开头总结一下，二叉树解题的思维模式分两类：</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/myfirstpost/featured.png" />
+    </item>
+    
+    <item>
+      <title>回溯算法</title>
+      <link>http://localhost:1313/posts/mypage4/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <author>2013244273@qq.com (又木)</author>
+      <guid>http://localhost:1313/posts/mypage4/</guid>
+      <description>抽象地说，解决一个回溯问题，实际上就是遍历一棵决策树的过程，树的每个叶子节点存放着一个合法答案。你把整棵树遍历一遍，把叶子节点上的答案都收集起来，就能得到所有的合法答案。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mypage4/featured.png" />
+    </item>
+    
+    <item>
+      <title>图论</title>
+      <link>http://localhost:1313/posts/mypage3/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <author>2013244273@qq.com (又木)</author>
+      <guid>http://localhost:1313/posts/mypage3/</guid>
+      <description>有向加权图（邻接表实现） #我这里给出一个简单的通用实现，后文图论算法教程和习题中可能会用到。其中有一些可以优化的点我写在注释中了。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mypage3/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
